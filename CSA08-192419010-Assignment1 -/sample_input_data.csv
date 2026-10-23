@@ -1,0 +1,7 @@
+# Sample Milk Collection Data Input File
+# Format: farmer_id, litres, fat_percentage, snf_percentage, shift
+F001, 10.0, 3.5, 8.5, Morning
+F002, 8.5, 4.2, 8.7, Evening
+F003, 12.0, 3.1, 8.3, Morning
+F004, 15.0, 4.5, 8.8, Evening
+F005, 5.0, 2.0, 8.0, Morning
