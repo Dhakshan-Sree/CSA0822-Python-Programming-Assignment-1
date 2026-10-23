@@ -1,8 +1,8 @@
-# CSA08-192419038B-Assignment1
+# CSA08-192419010-Assignment1
 
 ## Student Information
-* **Name:** R DEEPSHIKA
-* **Register Number:** 192419038B
+* **Name:** Dhakshan Sree S
+* **Register Number:** 192419010
 * **Course:** Python Programming (SIMATS Online Programming Lab)
 * **Python Version:** Python 3.10+
 * **Libraries Used:** `math`, `decimal`, `time`, `sys`, `matplotlib`, `PIL`
